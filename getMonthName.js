@@ -1,3 +1,4 @@
+//B - getMonthName.js
 export default function getMonthName(place) {
   const month = [
     'january',
